@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaurya002
 - 👀 I’m interested in Courses that can help me to evolve into a full fleged Software Developer
-- 🌱 I’m currently learning Java and Knows Basics of Python and C
+- 🌱 I’m currently learning Java along with Web-Development and Knows Basics of Python, C
 - 💞️ I’m looking to collaborate on Currently Basic Projects as for future , will try to collaborate on Advanced Projects
 - 📫 How to reach me by mailing at <shauryapratapsingh112@gmail.com>
 
