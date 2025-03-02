@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaurya002" alt="shaurya002" /></a> </p>
 
-- 🔭 I’m currently working on [DSA with JAVA](https://github.com/shaurya002/DSA-with-Java)
+- 🔭 I’m currently being trained on .net-React
 
 - 🌱 I’m currently learning **React**
 
