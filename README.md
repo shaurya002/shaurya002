@@ -3,14 +3,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaurya002" alt="shaurya002" /></a> </p>
 
-- 🔭 I’m currently being trained on **.net-React**
+- 🔭 I’m currently being trained for **SDET** role.
 
 - 📫 How to reach me **shauryapratapsingh112@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shaurya-pratap-singh-28a997225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaurya-pratap-singh-28a997225" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/whiteshadow9587" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="whiteshadow9587" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ikrus01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ikrus01" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/<shauryaprata82n>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<shauryaprata82n>" height="30" width="40" /></a>
 </p>
 
