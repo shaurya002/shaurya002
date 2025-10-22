@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaurya002&theme=flat" alt="shaurya002" /></a> </p>
 
-- 🔭 I’m currently being trained for **SDET** role.
+- 🔭 I’m currently working as ***Associate Software Engineer** at @mphasis.
 
 - 📫 How to reach me **shauryapratapsingh112@gmail.com**
 
